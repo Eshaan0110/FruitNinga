@@ -1,4 +1,4 @@
-# 🍉 Fruit Ninja — Hand Tracking Edition
+#  Fruit Ninja — Hand Tracking Edition
 
 A real-time, computer-vision take on the classic Fruit Ninja game. Use your **index finger** as the blade — detected live through your webcam — to slice fruits before they escape the screen.
 
@@ -14,11 +14,11 @@ Built with Python, OpenCV, and MediaPipe.
 
 ## Features
 
-- 🖐️ **Real-time hand tracking** via MediaPipe (no controller needed)
-- 🍎 **Randomised fruit spawning** with colorful circles
-- ⚡ **Dynamic difficulty** — speed and spawn rate increase every 1 000 points
-- 🎯 **Slash trail** that follows your fingertip
-- 📊 **Live HUD** showing Score, Lives, Level, and FPS
+-  **Real-time hand tracking** via MediaPipe (no controller needed)
+-  **Randomised fruit spawning** with colorful circles
+-  **Dynamic difficulty** — speed and spawn rate increase every 1 000 points
+-  **Slash trail** that follows your fingertip
+-  **Live HUD** showing Score, Lives, Level, and FPS
 
 ---
 
@@ -98,17 +98,3 @@ FruitNinja/
 5. Difficulty scales by increasing vertical speed and spawn rate at each 1 000-point milestone.
 
 ---
-
-## Roadmap
-
-- [ ] Actual fruit images instead of solid circles  
-- [ ] Bomb objects (slicing = instant game over)  
-- [ ] High-score persistence  
-- [ ] Start / pause / restart menu  
-- [ ] Sound effects  
-
----
-
-## License
-
-MIT — feel free to fork, extend, and have fun with it.
